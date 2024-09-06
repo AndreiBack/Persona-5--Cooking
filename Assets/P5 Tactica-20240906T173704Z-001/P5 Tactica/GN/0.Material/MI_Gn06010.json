@@ -1,0 +1,800 @@
+{
+  "m_Shader": {
+    "m_FileID": 3,
+    "m_PathID": 6599709030290022462,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_1st_ShadeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_2nd_ShadeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_AngelRing_Sampler": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ClippingMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ColorChange_LUT": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveCutoutMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveEdgeLUTTexture": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Emissive_Tex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_HighColor_Tex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 5654834011962292333,
+          "Name": "T_Gn06010_HighColorMask",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LayeredTexture_1st_ShadeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LayeredTexture_2nd_ShadeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LayeredTexture_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": -4229174662683141658,
+          "Name": "T_Gn06010_BaseMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCap_Sampler": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalMapForMatCap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Outline_Sampler": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ReflectionMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Set_1st_ShadePosition": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Set_HighColorMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Set_MatcapMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Set_RimLightMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShadingGradeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": {
+      "_Version": 1
+    },
+    "m_Floats": {
+      "_1st2nd_Shades_Feather": 0.0001,
+      "_1st_ShadeColor_Feather": 0.0001,
+      "_1st_ShadeColor_Step": 0.435,
+      "_2nd_ShadeColor_Feather": 0.0001,
+      "_2nd_ShadeColor_Step": 0.458,
+      "_ARSampler_AlphaOn": 0.0,
+      "_AR_OffsetU": 0.0,
+      "_AR_OffsetV": 0.3,
+      "_Add_Antipodean_RimLight": 0.0,
+      "_AdditionalLight_RampRange": 0.0001,
+      "_AdditionalLight_RampStep": 0.5,
+      "_AdditionalLight_RimRate": 0.0,
+      "_AngelRing": 0.0,
+      "_AnimationFadeValue": 0.0,
+      "_Ap_RimLight_FeatherOff": 1.0,
+      "_Ap_RimLight_InsideMask": 0.0001,
+      "_Ap_RimLight_Power": 0.349,
+      "_AutoRenderQueue": 1.0,
+      "_BaseColor_Step": 0.435,
+      "_BaseShade_Feather": 0.0001,
+      "_Base_Speed": 0.0,
+      "_Blend": 0.0,
+      "_BlurLevelMatcap": 0.0,
+      "_BlurLevelSGM": 0.0,
+      "_BumpScale": 1.0,
+      "_BumpScaleMatcap": 1.0,
+      "_CameraRolling_Stabilizer": 0.0,
+      "_ClippingMode": 0.0,
+      "_Clipping_Level": 0.0,
+      "_ColorMask": 15.0,
+      "_ColorShift_Speed": 0.0,
+      "_CullMode": 2.0,
+      "_Cutoff": 0.5,
+      "_DetailNormalMapScale": 1.0,
+      "_Dissolve": 0.0,
+      "_DissolveCutoutClip": 0.01,
+      "_DissolveCutoutGeometricInvert": 0.0,
+      "_DissolveCutoutGeometricNoise": 0.0,
+      "_DissolveCutoutGeometricRadius": 0.0,
+      "_DissolveCutoutGeometricRadius2": 0.0,
+      "_DissolveCutoutGeometricRadius3": 0.0,
+      "_DissolveCutoutGeometricRadius4": 0.0,
+      "_DissolveCutoutGeometricXYZAxis": 0.0,
+      "_DissolveCutoutGeometricXYZRollout": 0.0,
+      "_DissolveCutoutGeometricXYZStyle": 0.0,
+      "_DissolveEdgeBaseColorIntensity": 0.0,
+      "_DissolveEdgeBaseWidthGeometric": 0.1,
+      "_DissolveGeometricCount": 0.0,
+      "_DissolveMode": 0.0,
+      "_DissolvePositionDirection": 1.0,
+      "_DissolvePositionY": 0.0,
+      "_DissolveTextureRate": 0.0,
+      "_DistortionPosScale": 50.0,
+      "_DistortionPower": 0.0,
+      "_DistortionTimeScale": 0.2,
+      "_DstBlend": 10.0,
+      "_DstBlendOutline": 0.0,
+      "_EMISSIVE": 0.0,
+      "_FakeSystemShadow": 0.0,
+      "_Farthest_Distance": 10.0,
+      "_GI_Intensity": 0.0,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_HighColor_Power": 1.0,
+      "_Inverse_Clipping": 0.0,
+      "_Inverse_MatcapMask": 0.0,
+      "_Inverse_Z_Axis_BLD": 1.0,
+      "_IsBaseMapAlphaAsClippingMask": 0.0,
+      "_Is_BLD": 0.0,
+      "_Is_BakedNormal": 0.0,
+      "_Is_BlendAddToHiColor": 1.0,
+      "_Is_BlendAddToMatCap": 1.0,
+      "_Is_BlendBaseColor": 0.0,
+      "_Is_BlendToRimLight": 0.0,
+      "_Is_ColorChange": 0.0,
+      "_Is_ColorShift": 0.0,
+      "_Is_Filter_HiCutPointLightColor": 1.0,
+      "_Is_Filter_LightColor": 0.0,
+      "_Is_LightColor_1st_Shade": 1.0,
+      "_Is_LightColor_2nd_Shade": 0.0,
+      "_Is_LightColor_AR": 1.0,
+      "_Is_LightColor_Ap_RimLight": 1.0,
+      "_Is_LightColor_Base": 1.0,
+      "_Is_LightColor_HighColor": 1.0,
+      "_Is_LightColor_MatCap": 1.0,
+      "_Is_LightColor_Outline": 1.0,
+      "_Is_LightColor_RimLight": 1.0,
+      "_Is_LocalHeightFog": 0.0,
+      "_Is_MaterialLight": 0.0,
+      "_Is_MulLocalHeightFog": 0.0,
+      "_Is_NormalMapForMatCap": 0.0,
+      "_Is_NormalMapToBase": 0.0,
+      "_Is_NormalMapToHighColor": 0.0,
+      "_Is_NormalMapToRimLight": 0.0,
+      "_Is_Ortho": 0.0,
+      "_Is_OutlineDepthWrite": 0.0,
+      "_Is_OutlineOnly": 0.0,
+      "_Is_OutlineSilhouette": 0.0,
+      "_Is_OutlineTex": 0.0,
+      "_Is_Outline_DistanceFilter": 1.0,
+      "_Is_Outline_On_RimLight": 1.0,
+      "_Is_PingPong_Base": 0.0,
+      "_Is_Ramp_ApRimLight": 0.0,
+      "_Is_Ramp_RimLight": 0.0,
+      "_Is_Reflection": 0.0,
+      "_Is_RimLight_GlobalColor": 0.0,
+      "_Is_RimLight_OverrideLightDirection": 0.0,
+      "_Is_RimLight_VertexColorNormal": 0.0,
+      "_Is_Rotate_MainUV": 0.0,
+      "_Is_Screen_Scroll": 0.0,
+      "_Is_SpecularToHighColor": 1.0,
+      "_Is_UseTweakAngelRingOnShadow": 0.0,
+      "_Is_UseTweakHighColorOnShadow": 1.0,
+      "_Is_UseTweakMatCapOnShadow": 0.0,
+      "_Is_ViewCoord_Scroll": 0.0,
+      "_Is_ViewShift": 0.0,
+      "_LayeredTextureValue": 0.0,
+      "_LightDirection_MaskOn": 1.0,
+      "_LocalHeightFogScale": 0.5,
+      "_LocalHeightFogSetProperty": 0.0,
+      "_MainLightSelectMode": 0.0,
+      "_MatCap": 0.0,
+      "_MaterialLight_OverRideMainShadow": 0.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_Nearest_Distance": 3.0,
+      "_OUTLINE": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_Offset_X_Axis_BLD": -0.05,
+      "_Offset_Y_Axis_BLD": 0.09,
+      "_Offset_Z": 0.0,
+      "_Outline_DstBlend": 0.0,
+      "_Outline_MinWidth": 3.0,
+      "_Outline_SrcBlend": 1.0,
+      "_Outline_Stencil": 0.0,
+      "_Outline_StencilComp": 8.0,
+      "_Outline_StencilOp": 0.0,
+      "_Outline_StencilReadMask": 255.0,
+      "_Outline_StencilWriteMask": 255.0,
+      "_Outline_Width": 10.0,
+      "_Parallax": 0.02,
+      "_ProjectionShadow_Intensity": 1.0,
+      "_RampRange_LightDirection_ApRimLight": 0.0001,
+      "_RampRange_LightDirection_RimLight": 0.0001,
+      "_RampStep_LightDirection_ApRimLight": 0.5,
+      "_RampStep_LightDirection_RimLight": 0.5,
+      "_RimLight": 0.0,
+      "_RimLight_FeatherOff": 1.0,
+      "_RimLight_InsideMask": 0.008,
+      "_RimLight_Power": 0.097,
+      "_Rotate_EmissiveUV": 0.0,
+      "_Rotate_MainUV": 0.0,
+      "_Rotate_MatCapUV": 0.0,
+      "_Rotate_NormalMapForMatCapUV": 0.0,
+      "_SPRDefaultUnlitColorMask": 15.0,
+      "_SRPDefaultUnlitColMode": 1.0,
+      "_Scroll_EmissiveU": 0.0,
+      "_Scroll_EmissiveV": 0.0,
+      "_Set_SystemShadowsToBase": 1.0,
+      "_ShadeColor_Step": 0.458,
+      "_ShadowBlendingMode": 2.0,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 5.0,
+      "_SrcBlendOutline": 1.0,
+      "_Stencil": 0.0,
+      "_StencilComp": 8.0,
+      "_StencilFail": 0.0,
+      "_StencilMode": 0.0,
+      "_StencilOp": 0.0,
+      "_StencilReadMask": 255.0,
+      "_StencilWriteMask": 255.0,
+      "_StepOffset": 0.0,
+      "_SystemDitherAlpha": 1.0,
+      "_SystemDitherSimpleMode": 1.0,
+      "_SystemFadeValue": 0.0,
+      "_TessEdgeLength": 5.0,
+      "_TessExtrusionAmount": 0.0,
+      "_TessPhongStrength": 0.5,
+      "_TransparentEnabled": 0.0,
+      "_TweakAngelRingOnShadow": 0.0,
+      "_TweakHighColorOnShadow": 0.0,
+      "_TweakMatCapOnShadow": 0.0,
+      "_TweakReflectionPower": 1.0,
+      "_TweakReflectionPowerOffset": 0.0,
+      "_Tweak_HighColorMaskLevel": 0.0,
+      "_Tweak_LightDirection_MaskLevel": 0.0,
+      "_Tweak_MatCapUV": 0.0,
+      "_Tweak_MatcapMaskLevel": 0.0,
+      "_Tweak_RimLightMaskLevel": 0.0,
+      "_Tweak_ShadingGradeMapLevel": 0.0,
+      "_Tweak_SystemShadowsLevel": 0.0,
+      "_Tweak_transparency": 0.0,
+      "_UVSec": 0.0,
+      "_Unlit_Intensity": 1.0,
+      "_UseDissolvePosition": 0.0,
+      "_UseDissolveTexture": 0.0,
+      "_UseHighLight": 1.0,
+      "_UseRimLight": 1.0,
+      "_UseSSAO": 0.0,
+      "_Use_1stAs2nd": 1.0,
+      "_Use_BaseAs1st": 1.0,
+      "_ZOverDrawMode": 0.0,
+      "_ZTest": 4.0,
+      "_ZWrite": 1.0,
+      "_ZWriteMode": 1.0,
+      "_simpleUI": 0.0,
+      "_utsTechnique": 0.0,
+      "_utsVersion": 2.075,
+      "_utsVersionX": 2.0,
+      "_utsVersionY": 2.0,
+      "_utsVersionZ": 0.0
+    },
+    "m_Colors": {
+      "_1st_ShadeColor": {
+        "r": 0.7830189,
+        "g": 0.7830189,
+        "b": 0.7830189,
+        "a": 1.0
+      },
+      "_2nd_ShadeColor": {
+        "r": 0.6509434,
+        "g": 0.6509434,
+        "b": 0.6509434,
+        "a": 1.0
+      },
+      "_AddBaseColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_AngelRing_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Ap_RimLightColor": {
+        "r": 0.5499288,
+        "g": 0.649133,
+        "b": 0.6981132,
+        "a": 1.0
+      },
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ColorShift": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_DissolveCutoutGeometricPosition": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveCutoutGeometricPosition2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveCutoutGeometricPosition3": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveCutoutGeometricPosition4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveCutoutGeometricXYZPosition": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DissolveEdgeBaseColor": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_DotHighLightPatternTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DotRimLightPatternTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DotShadowPatternTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Emissive_Color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_FakeSystemShadowPosition": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ForcedColorChange": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_HighColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_LightDirection": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_LocalHeightFogColor": {
+        "r": 0.039215688,
+        "g": 0.0,
+        "b": 0.117646985,
+        "a": 0.9411765
+      },
+      "_MatCapColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MaterialLight_Direction": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Outline_Color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RimLightColor": {
+        "r": 0.14538093,
+        "g": 0.2045422,
+        "b": 0.254717,
+        "a": 1.0
+      },
+      "_RimLight_OverrideLightDirection": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_RotCenter_MainUV": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_SystemBlendColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SystemEmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ViewShift": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "MI_Gn06010",
+  "Name": "MI_Gn06010"
+}
