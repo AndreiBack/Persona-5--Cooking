@@ -33,13 +33,13 @@ public class Player : MonoBehaviour {
 
         inputVector = inputVector.normalized;
 
-        Vector3 moveDirection = new Vector3(inputVector.x,0f, inputVector.y);
-        transform.position += moveDirection * moveSpeed * Time.deltaTime ;
+        Vector3 moveDir = new Vector3(inputVector.x,0f, inputVector.y);
+        transform.position += moveDir * moveSpeed * Time.deltaTime ;
 
-        isWalking = moveDirection != Vector3.zero;
+        isWalking = moveDir != Vector3.zero;
 
-        float rotateSpeed = 8f;
-        transform.forward = Vector3.Slerp(transform.forward, moveDirection, Time.deltaTime * rotateSpeed);
+        float rotateSpeed = 10f;
+        transform.forward = Vector3.Slerp(transform.forward, moveDir, Time.deltaTime * rotateSpeed);
         Debug.Log(Time.deltaTime);
     }
 
