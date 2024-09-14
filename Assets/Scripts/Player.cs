@@ -30,16 +30,19 @@ public class Player : MonoBehaviour {
 
             if (canMove)
             {// pode mover no X
+
                 moveDir = moveDirX;
             }
 
             else
             {// não pode mover no x, mas pode mover no Z
+
                 Vector3 moveDirZ = new Vector3(moveDir.z, 0, 0).normalized;
                 canMove = !Physics.CapsuleCast(transform.position, transform.position + Vector3.up * playerHeight, playerRadius, moveDirZ, moveDistance);
 
                 if (canMove)
                 {// pode mover no Z
+
                     moveDir = moveDirZ;
                 }
                 else
