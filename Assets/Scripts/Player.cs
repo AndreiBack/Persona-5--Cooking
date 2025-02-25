@@ -46,7 +46,6 @@ public class Player : MonoBehaviour, IKitchenObjectParent {
     }
 
   private void GameInput_OnInteractAction(object sender, System.EventArgs e) {
-    Debug.Log("Tentando interagir com: " + (selectedCounter != null ? selectedCounter.name : "Nenhum objeto"));
     if (selectedCounter != null) {
         selectedCounter.Interact(this);
     } 
